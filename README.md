@@ -19,8 +19,7 @@
 <a href="https://uploadimage-frontend-reactjs.herokuapp.com/" target="_blank">Upload Image no Heroku</a>
 
 <h3>Frontend</h3>
-<a href="https://github.com/marcomonteirobrito/uploadImage-frontend-reactjs" target="_blank>Repositório frontend</a>
----
+<a href="https://github.com/marcomonteirobrito/uploadImage-frontend-reactjs" target="_blank">Repositório frontend</a>
 
 <h4>Dúvidas entre em contato pelo <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
 
